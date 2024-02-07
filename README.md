@@ -1,2 +1,2 @@
-# DeluxeStrings-Utils
-Uma classe utilitária para ser usada em Lua, ela contém métodos para trabalhar com Strings.
+# 📔 DeluxeStrings-Utils
+> AVISO: Este código tem o foco de ajudar programadores a desenvolverem de forma rápida o seu código, ele pode ser modificado pelo usuário caso o mesmo deseje.
