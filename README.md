@@ -11,3 +11,8 @@
 - ``containsBlankSpaces(str)`` <--> Checar se contém espaços em branco no texto.
 - ``toUpperCase(str)`` <--> Retornar o texto em caixa alta.
 - ``toLowerCase(str)`` <--> Retornar o texto em caixa baixa.
+
+## Como implementar
+``local dxString = requires("deluxeStrings")``
+- Após isto a sua classe já poderá usar os métodos do DeluxeStrings!
+
